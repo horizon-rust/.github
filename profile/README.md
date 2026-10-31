@@ -9,7 +9,7 @@ unofficial.
 | [horizon](https://github.com/horizon-rust/horizon) | The game, the launcher, the server and the tools |
 | [horizon-mods](https://github.com/horizon-rust/horizon-mods) | The registry of mods, modpacks and shader packs the launcher's mod browser lists |
 
-[Website](https://playhorizon.dev) · [Download](https://playhorizon.dev) · [Discord](https://discord.gg/HcTeMZxe5E) ·
+[Website](https://playhorizon.dev) · [Download](https://playhorizon.dev) · [Discord](https://discord.gg/playhorizon) ·
 [Contributing](https://github.com/horizon-rust/horizon/blob/main/CONTRIBUTING.md)
 
 > Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
